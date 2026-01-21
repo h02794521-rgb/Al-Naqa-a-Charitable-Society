@@ -16,6 +16,8 @@
                     <li><a href="index.php" class="active">Home</a></li>
                     <li><a href="login.php">Login</a></li>
                     <li><a href="signup.php">Sign Up</a></li>
+                 <li><a href="awareness.php">Awareness</a></li>
+
                 </ul>
             </div>
         </div>
